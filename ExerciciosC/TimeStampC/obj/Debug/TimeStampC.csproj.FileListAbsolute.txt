@@ -1,0 +1,7 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\TimeStampC\bin\Debug\TimeStampC.exe.config
+C:\Users\Adolfo\source\repos\ExerciciosC\TimeStampC\bin\Debug\TimeStampC.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\TimeStampC\bin\Debug\TimeStampC.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\TimeStampC\obj\Debug\TimeStampC.csprojAssemblyReference.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\TimeStampC\obj\Debug\TimeStampC.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\TimeStampC\obj\Debug\TimeStampC.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\TimeStampC\obj\Debug\TimeStampC.pdb

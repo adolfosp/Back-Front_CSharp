@@ -1,0 +1,6 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioMatriz2\bin\Debug\ExercicioMatriz2.exe.config
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioMatriz2\bin\Debug\ExercicioMatriz2.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioMatriz2\bin\Debug\ExercicioMatriz2.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioMatriz2\obj\Debug\ExercicioMatriz2.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioMatriz2\obj\Debug\ExercicioMatriz2.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioMatriz2\obj\Debug\ExercicioMatriz2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\FuncoesString\bin\Debug\FuncoesString.exe.config
+C:\Users\Adolfo\source\repos\ExerciciosC\FuncoesString\bin\Debug\FuncoesString.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\FuncoesString\bin\Debug\FuncoesString.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\FuncoesString\obj\Debug\FuncoesString.csprojAssemblyReference.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\FuncoesString\obj\Debug\FuncoesString.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\FuncoesString\obj\Debug\FuncoesString.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\FuncoesString\obj\Debug\FuncoesString.pdb
