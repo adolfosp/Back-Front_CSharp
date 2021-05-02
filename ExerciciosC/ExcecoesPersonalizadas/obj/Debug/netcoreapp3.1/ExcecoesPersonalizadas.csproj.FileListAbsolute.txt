@@ -1,0 +1,12 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.deps.json
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.genruntimeconfig.cache

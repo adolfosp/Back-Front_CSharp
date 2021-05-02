@@ -1,0 +1,13 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\bin\Debug\netcoreapp3.1\FileFileInfoIOException.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\bin\Debug\netcoreapp3.1\FileFileInfoIOException.deps.json
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\bin\Debug\netcoreapp3.1\FileFileInfoIOException.runtimeconfig.json
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\bin\Debug\netcoreapp3.1\FileFileInfoIOException.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\bin\Debug\netcoreapp3.1\FileFileInfoIOException.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\bin\Debug\netcoreapp3.1\FileFileInfoIOException.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\obj\Debug\netcoreapp3.1\FileFileInfoIOException.csprojAssemblyReference.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\obj\Debug\netcoreapp3.1\FileFileInfoIOException.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\obj\Debug\netcoreapp3.1\FileFileInfoIOException.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\obj\Debug\netcoreapp3.1\FileFileInfoIOException.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\obj\Debug\netcoreapp3.1\FileFileInfoIOException.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\obj\Debug\netcoreapp3.1\FileFileInfoIOException.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\FileFileInfoIOException\obj\Debug\netcoreapp3.1\FileFileInfoIOException.genruntimeconfig.cache

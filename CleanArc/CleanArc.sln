@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArc", "CleanArc\CleanArc.csproj", "{B6511C28-8AFF-4408-A0B8-24CA0A3EF7DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{203C4087-9CB7-4A18-8736-7B9E5E000493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6511C28-8AFF-4408-A0B8-24CA0A3EF7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6511C28-8AFF-4408-A0B8-24CA0A3EF7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6511C28-8AFF-4408-A0B8-24CA0A3EF7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6511C28-8AFF-4408-A0B8-24CA0A3EF7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203C4087-9CB7-4A18-8736-7B9E5E000493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203C4087-9CB7-4A18-8736-7B9E5E000493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203C4087-9CB7-4A18-8736-7B9E5E000493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203C4087-9CB7-4A18-8736-7B9E5E000493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD5C468-2EEC-4120-811F-EC14C775135E}
+	EndGlobalSection
+EndGlobal

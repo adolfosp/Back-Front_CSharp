@@ -1,0 +1,13 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\bin\Debug\netcoreapp3.1\TryCatchC.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\bin\Debug\netcoreapp3.1\TryCatchC.deps.json
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\bin\Debug\netcoreapp3.1\TryCatchC.runtimeconfig.json
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\bin\Debug\netcoreapp3.1\TryCatchC.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\bin\Debug\netcoreapp3.1\TryCatchC.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\bin\Debug\netcoreapp3.1\TryCatchC.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\obj\Debug\netcoreapp3.1\TryCatchC.csprojAssemblyReference.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\obj\Debug\netcoreapp3.1\TryCatchC.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\obj\Debug\netcoreapp3.1\TryCatchC.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\obj\Debug\netcoreapp3.1\TryCatchC.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\obj\Debug\netcoreapp3.1\TryCatchC.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\obj\Debug\netcoreapp3.1\TryCatchC.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\TryCatchC\obj\Debug\netcoreapp3.1\TryCatchC.genruntimeconfig.cache

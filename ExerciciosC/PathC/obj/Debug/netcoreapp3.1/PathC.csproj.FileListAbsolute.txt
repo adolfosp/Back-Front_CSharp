@@ -1,0 +1,12 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\bin\Debug\netcoreapp3.1\PathC.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\bin\Debug\netcoreapp3.1\PathC.deps.json
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\bin\Debug\netcoreapp3.1\PathC.runtimeconfig.json
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\bin\Debug\netcoreapp3.1\PathC.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\bin\Debug\netcoreapp3.1\PathC.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\bin\Debug\netcoreapp3.1\PathC.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\obj\Debug\netcoreapp3.1\PathC.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\obj\Debug\netcoreapp3.1\PathC.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\obj\Debug\netcoreapp3.1\PathC.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\obj\Debug\netcoreapp3.1\PathC.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\obj\Debug\netcoreapp3.1\PathC.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\PathC\obj\Debug\netcoreapp3.1\PathC.genruntimeconfig.cache

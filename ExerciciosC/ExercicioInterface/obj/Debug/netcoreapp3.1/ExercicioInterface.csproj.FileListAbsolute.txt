@@ -1,0 +1,12 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.deps.json
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.runtimeconfig.json
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.genruntimeconfig.cache

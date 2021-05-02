@@ -1,0 +1,12 @@
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\bin\Debug\netcoreapp3.1\FileStreamC.exe
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\bin\Debug\netcoreapp3.1\FileStreamC.deps.json
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\bin\Debug\netcoreapp3.1\FileStreamC.runtimeconfig.json
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\bin\Debug\netcoreapp3.1\FileStreamC.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\bin\Debug\netcoreapp3.1\FileStreamC.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\bin\Debug\netcoreapp3.1\FileStreamC.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\obj\Debug\netcoreapp3.1\FileStreamC.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\obj\Debug\netcoreapp3.1\FileStreamC.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\obj\Debug\netcoreapp3.1\FileStreamC.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\obj\Debug\netcoreapp3.1\FileStreamC.dll
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\obj\Debug\netcoreapp3.1\FileStreamC.pdb
+C:\Users\Adolfo\source\repos\ExerciciosC\FileStream\obj\Debug\netcoreapp3.1\FileStreamC.genruntimeconfig.cache
