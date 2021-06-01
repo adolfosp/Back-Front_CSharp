@@ -1,0 +1,16 @@
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\bin\Release\netcoreapp3.1\TrocaDeValores.exe
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\bin\Release\netcoreapp3.1\TrocaDeValores.deps.json
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\bin\Release\netcoreapp3.1\TrocaDeValores.runtimeconfig.json
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\bin\Release\netcoreapp3.1\TrocaDeValores.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\bin\Release\netcoreapp3.1\TrocaDeValores.dll
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\bin\Release\netcoreapp3.1\TrocaDeValores.pdb
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.csprojAssemblyReference.cache
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.frmTrocaDeValores.resources
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.Properties.Resources.resources
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.csproj.GenerateResource.cache
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.dll
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.pdb
+C:\Users\Adolfo\source\repos\SolucaoCapitulo01\TrocaDeValores\obj\Release\netcoreapp3.1\TrocaDeValores.genruntimeconfig.cache
